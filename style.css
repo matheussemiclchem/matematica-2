@@ -77,3 +77,7 @@ body {
 .estudante-imagem{
     width: 120px;
 }
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
+}
